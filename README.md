@@ -9,13 +9,6 @@
 4.此脚本仅在Windows10/11平台进行验证，其他操作系统对此的支持未知。  
 5.为确保稳定性，请使用python3.11解释器。
 
-声明：  
-
-此脚本的开发过程使用了生成式AI。  
-
-项目愿景：  
-
-让个性化AI触手可及，让科技发展的成果惠及广大人民群众
 
 ===========================================================================================
 
@@ -31,12 +24,5 @@ Notes:
 
 4.This script has only been validated on Windows 10/11 platforms; support for other operating systems is unknown.
 
-5.For stability, please use the Python 3.11 interpreter.
+5.For stability, please use the Python 3.11
 
-Declaration:
-
-This script was developed with generative AI.  
-  
-Project Vision:
-
-Personalized AI models will no longer be out of reach, and the fruits of technological advancement will benefit all people.
